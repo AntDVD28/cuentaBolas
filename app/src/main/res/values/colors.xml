@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Colores de la app-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <!--Color de las bolas-->
+    <color name="colorVerde">#4BD197</color>
+    <color name="colorAzul">#69cdff</color>
+    <color name="colorRojo">#FF5C5C</color>
+    <color name="colorRosa">#ff8ccb</color>
+    <color name="colorAmarillo">#FFCB47</color>
+    <color name="colorGris">#e8e3e8</color>
+</resources>

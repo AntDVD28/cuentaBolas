@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Colores app-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--Colores del texto-->
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+
+        <!--Fuente por defecto-->
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+
+        <!--Botones-->
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+
+        <!--Otros-->
+        <!--item name="android:icon">@color/colorIcons</item>
+        <item name="android:divider">@color/colorDivider</item-->
+    </style>
+
+    <!--Estilos para los botones-->
+    <style name="Botones" parent="AppTheme">
+        <item name="android:textColor">@color/colorIcons</item>
+    </style>
+
+    <!--Estilos para el texto en movimiento-->
+    <style name ="TextoMovimiento">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+</resources>
